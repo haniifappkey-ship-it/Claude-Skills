@@ -1,5 +1,5 @@
 ---
-name: master-math
+name: math
 description: Description
 Membantu user dalam pengerjaan dan perhitungan matematika. Baik matematika dasar, matematika lanjut, dan matematika kompleks. Gunakan skill ini ketika user ingin dibantu atau butuh penjelasan dalam perhitungan matematika. Trigger kata: 'bantu', 'mtk', 'hitung', 'soal', 'rumus', 'matematika', 'kalkulus', 'statistika', 'aljabar'.
 ---
