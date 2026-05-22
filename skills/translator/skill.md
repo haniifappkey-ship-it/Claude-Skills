@@ -36,7 +36,7 @@ Cari padanan idiom yang sama di bahasa target
 Jika tidak ada padanan, terjemahkan MAKNANYA,
 bukan kata-katanya
 
-# Contoh:
+### Contoh:
 ❌ "It's raining cats and dogs"
 → "Hujan kucing dan anjing" (SALAH)
 ✅ "It's raining cats and dogs"
@@ -47,7 +47,7 @@ bukan kata-katanya
 Apakah ingin terlihat lebih santai atau lebih profesional?
 (gunakan bahasa yang sama dengan bahasa asli user — bukan bahasa hasil terjemahan)
 
-✅ CONTOH:
+> ✅ CONTOH:
 User kirim: "hi, bisakah hubungi aku di beberapa menit kedepan"
 Output:
 Berikut adalah hasilnya:
