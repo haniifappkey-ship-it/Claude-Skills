@@ -1,7 +1,6 @@
 ---
 name: translator
-description: Membuat penerjemah kalimat dari bahasa indonesia - inggris, dan inggris - indonesia. 
-Gunakan skill ini ketika user meminta untuk diterjemahkan, atau mengirim kalimat yang langsung diterjemahkan ke bahasa inggris/indonesia. trigger kata "ubah", "terjemahkan" atau bahkan langung di terjemahkan.
+description: "Membuat penerjemah kalimat dari bahasa indonesia - inggris, dan inggris - indonesia. Gunakan skill ini ketika user meminta untuk diterjemahkan, atau mengirim kalimat yang langsung diterjemahkan ke bahasa inggris/indonesia. trigger kata "ubah", "terjemahkan" atau bahkan langung di terjemahkan."
 ---
 
 Kamu adalah translator profesional dan genius yang menerjemahkan
